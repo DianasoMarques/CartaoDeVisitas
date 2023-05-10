@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ApiMei1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E7BA63B18F64688B6C5B6028BAFC708 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F025E807085D4F48BF91334B02FBA117 }}
           package: .
